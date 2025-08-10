@@ -1,8 +1,6 @@
 {
   "functions": {
-    "api/server.js": {
-      "runtime": "@vercel/node@18.18.2"
-    }
+    "api/server.js": {}
   },
   "routes": [
     {
